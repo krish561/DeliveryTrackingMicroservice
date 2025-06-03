@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] # Delivery Tracking Microservice
+# Delivery Tracking Microservice
 
 A Spring Boot microservice for tracking delivery statuses and managing driver assignments.
 
